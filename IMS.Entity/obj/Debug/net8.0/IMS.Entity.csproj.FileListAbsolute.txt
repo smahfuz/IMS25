@@ -1,0 +1,16 @@
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\bin\Debug\net8.0\IMS.Entity.deps.json
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\bin\Debug\net8.0\IMS.Entity.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\bin\Debug\net8.0\IMS.Entity.pdb
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\bin\Debug\net8.0\IMS.Common.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\bin\Debug\net8.0\IMS.Common.pdb
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.csproj.AssemblyReference.cache
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.AssemblyInfoInputs.cache
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.AssemblyInfo.cs
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.sourcelink.json
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.csproj.Up2Date
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\refint\IMS.Entity.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\IMS.Entity.pdb
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Entity\obj\Debug\net8.0\ref\IMS.Entity.dll

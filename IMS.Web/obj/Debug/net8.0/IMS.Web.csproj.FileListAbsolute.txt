@@ -267,3 +267,12 @@ C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\obj\Debug\net8.0\refint\IMS.Web
 C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\obj\Debug\net8.0\IMS.Web.pdb
 C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\obj\Debug\net8.0\IMS.Web.genruntimeconfig.cache
 C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\obj\Debug\net8.0\ref\IMS.Web.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\bin\Debug\net8.0\IMS.Common.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\bin\Debug\net8.0\IMS.Entity.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\bin\Debug\net8.0\IMS.Repo.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\bin\Debug\net8.0\IMS.Service.dll
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\bin\Debug\net8.0\IMS.Service.pdb
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\bin\Debug\net8.0\IMS.Common.pdb
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\bin\Debug\net8.0\IMS.Entity.pdb
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\bin\Debug\net8.0\IMS.Repo.pdb
+C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Web\obj\Debug\net8.0\IMS.Web.sourcelink.json
