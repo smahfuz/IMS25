@@ -2796,6 +2796,55 @@
             "rid": "win"
           }
         }
+      },
+      "IMS.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/IMS.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Common.dll": {}
+        }
+      },
+      "IMS.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "IMS.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        }
+      },
+      "IMS.Repo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "IMS.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Repo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Repo.dll": {}
+        }
+      },
+      "IMS.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "IMS.Repo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Service.dll": {}
+        }
       }
     }
   },
@@ -7758,10 +7807,31 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "IMS.Common/1.0.0": {
+      "type": "project",
+      "path": "../IMS.Common/IMS.Common.csproj",
+      "msbuildProject": "../IMS.Common/IMS.Common.csproj"
+    },
+    "IMS.Entity/1.0.0": {
+      "type": "project",
+      "path": "../IMS.Entity/IMS.Entity.csproj",
+      "msbuildProject": "../IMS.Entity/IMS.Entity.csproj"
+    },
+    "IMS.Repo/1.0.0": {
+      "type": "project",
+      "path": "../IMS.Repo/IMS.Repo.csproj",
+      "msbuildProject": "../IMS.Repo/IMS.Repo.csproj"
+    },
+    "IMS.Service/1.0.0": {
+      "type": "project",
+      "path": "../IMS.Service/IMS.Service.csproj",
+      "msbuildProject": "../IMS.Service/IMS.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "IMS.Service >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.15",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.15",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.15",
@@ -7799,7 +7869,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Service\\IMS.Service.csproj": {
+              "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Service\\IMS.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
