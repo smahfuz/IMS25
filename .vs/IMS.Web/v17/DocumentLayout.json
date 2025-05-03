@@ -7,6 +7,21 @@
       "RelativeMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|solutionrelative:ims.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|solutionrelative:ims.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.web\\migrations\\20250502140901_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|solutionrelative:ims.web\\migrations\\20250502140901_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDAAFE1-4527-4047-8ECA-4781D5E1A49A}|IMS.Repo\\IMS.Repo.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.repo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDAAFE1-4527-4047-8ECA-4781D5E1A49A}|IMS.Repo\\IMS.Repo.csproj|solutionrelative:ims.repo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WebDev\\HMS\\HMS.Repository\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|solutionrelative:ims.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +37,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "IMS.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "IMS.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:04:43.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250502140901_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Migrations\\20250502140901_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "IMS.Web\\Migrations\\20250502140901_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Migrations\\20250502140901_Initial.Designer.cs",
+              "RelativeToolTip": "IMS.Web\\Migrations\\20250502140901_Initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:04:30.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\WebDev\\HMS\\HMS.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\WebDev\\HMS\\HMS.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:01:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IMS.Repo\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IMS.Repo\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:00:50.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,14 +101,14 @@
               "RelativeDocumentMoniker": "IMS.Web\\Program.cs",
               "ToolTip": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Program.cs",
               "RelativeToolTip": "IMS.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T06:17:39.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "IMS.Web\\Views\\Shared\\_Layout.cshtml",
@@ -55,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IMS.Web\\Controllers\\HomeController.cs",

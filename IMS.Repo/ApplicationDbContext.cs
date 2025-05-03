@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace IMS.Web.Data
+namespace IMS.Repo
 {
     public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {
