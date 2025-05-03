@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140528_ProducctsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IMS.Repo\\Migrations\\20250503140528_ProducctsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBDAAFE1-4527-4047-8ECA-4781D5E1A49A}|IMS.Repo\\IMS.Repo.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.repo\\ims.repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBDAAFE1-4527-4047-8ECA-4781D5E1A49A}|IMS.Repo\\IMS.Repo.csproj|solutionrelative:ims.repo\\ims.repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8690AC0C-AD8E-4D93-BE99-CFCB0217F6B6}|IMS.Entity\\IMS.Entity.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.entity\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8690AC0C-AD8E-4D93-BE99-CFCB0217F6B6}|IMS.Entity\\IMS.Entity.csproj|solutionrelative:ims.entity\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140446_ProducctsAdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IMS.Repo\\Migrations\\20250503140446_ProducctsAdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|solutionrelative:ims.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140013_ProducctsRelatedEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IMS.Repo\\Migrations\\20250503140013_ProducctsRelatedEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBDAAFE1-4527-4047-8ECA-4781D5E1A49A}|IMS.Repo\\IMS.Repo.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.repo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +57,6 @@
       "RelativeMoniker": "D:0:0:{8690AC0C-AD8E-4D93-BE99-CFCB0217F6B6}|IMS.Entity\\IMS.Entity.csproj|solutionrelative:ims.entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBDAAFE1-4527-4047-8ECA-4781D5E1A49A}|IMS.Repo\\IMS.Repo.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.repo\\ims.repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FBDAAFE1-4527-4047-8ECA-4781D5E1A49A}|IMS.Repo\\IMS.Repo.csproj|solutionrelative:ims.repo\\ims.repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|c:\\users\\dev-mahfuz\\source\\repos\\ims.web\\ims.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E38F60-92E5-440A-A0DC-0A4D9C121972}|IMS.Web\\IMS.Web.csproj|solutionrelative:ims.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,51 +81,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250503140528_ProducctsAdded.cs",
-              "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140528_ProducctsAdded.cs",
-              "RelativeDocumentMoniker": "IMS.Repo\\Migrations\\20250503140528_ProducctsAdded.cs",
-              "ToolTip": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140528_ProducctsAdded.cs",
-              "RelativeToolTip": "IMS.Repo\\Migrations\\20250503140528_ProducctsAdded.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:05:28.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250503140446_ProducctsAdd.cs",
-              "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140446_ProducctsAdd.cs",
-              "RelativeDocumentMoniker": "IMS.Repo\\Migrations\\20250503140446_ProducctsAdd.cs",
-              "ToolTip": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140446_ProducctsAdd.cs",
-              "RelativeToolTip": "IMS.Repo\\Migrations\\20250503140446_ProducctsAdd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:04:47.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250503140013_ProducctsRelatedEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140013_ProducctsRelatedEntity.cs",
-              "RelativeDocumentMoniker": "IMS.Repo\\Migrations\\20250503140013_ProducctsRelatedEntity.cs",
-              "ToolTip": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\Migrations\\20250503140013_ProducctsRelatedEntity.cs",
-              "RelativeToolTip": "IMS.Repo\\Migrations\\20250503140013_ProducctsRelatedEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:00:14.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IMS.Repo",
+              "Title": "IMS.Repo.csproj",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\IMS.Repo.csproj",
               "RelativeDocumentMoniker": "IMS.Repo\\IMS.Repo.csproj",
               "ToolTip": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\IMS.Repo.csproj",
               "RelativeToolTip": "IMS.Repo\\IMS.Repo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-03T12:08:53.713Z",
               "EditorCaption": ""
@@ -152,12 +101,11 @@
               "RelativeToolTip": "IMS.Entity\\Warehouse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:11:45.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:11:45.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ItemStock.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\ItemStock.cs",
               "RelativeDocumentMoniker": "IMS.Entity\\ItemStock.cs",
@@ -165,12 +113,11 @@
               "RelativeToolTip": "IMS.Entity\\ItemStock.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAmwCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:10:16.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:10:16.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Manufacturer.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\Manufacturer.cs",
               "RelativeDocumentMoniker": "IMS.Entity\\Manufacturer.cs",
@@ -178,12 +125,11 @@
               "RelativeToolTip": "IMS.Entity\\Manufacturer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:09:00.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:09:00.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\Category.cs",
               "RelativeDocumentMoniker": "IMS.Entity\\Category.cs",
@@ -191,34 +137,31 @@
               "RelativeToolTip": "IMS.Entity\\Category.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:07:53.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:07:53.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\WebDev\\CLARICHEM\\SCHM.Entities\\Category.cs",
               "ToolTip": "D:\\WebDev\\CLARICHEM\\SCHM.Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:58:56.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T12:58:56.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Manufacturer.cs",
               "DocumentMoniker": "D:\\WebDev\\CLARICHEM\\SCHM.Entities\\Manufacturer.cs",
               "ToolTip": "D:\\WebDev\\CLARICHEM\\SCHM.Entities\\Manufacturer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:57:01.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T12:57:01.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "GeneralConfig.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\GeneralConfig.cs",
               "RelativeDocumentMoniker": "IMS.Entity\\GeneralConfig.cs",
@@ -226,12 +169,11 @@
               "RelativeToolTip": "IMS.Entity\\GeneralConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:53:44.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T12:53:44.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "AuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\Core\\AuditableEntity.cs",
               "RelativeDocumentMoniker": "IMS.Entity\\Core\\AuditableEntity.cs",
@@ -239,12 +181,11 @@
               "RelativeToolTip": "IMS.Entity\\Core\\AuditableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:12:24.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T12:12:24.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\Core\\Entity.cs",
               "RelativeDocumentMoniker": "IMS.Entity\\Core\\Entity.cs",
@@ -252,12 +193,11 @@
               "RelativeToolTip": "IMS.Entity\\Core\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:12:06.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T12:12:06.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\Product.cs",
               "RelativeDocumentMoniker": "IMS.Entity\\Product.cs",
@@ -265,12 +205,11 @@
               "RelativeToolTip": "IMS.Entity\\Product.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA7wDEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:09:38.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T12:09:38.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\Customer.cs",
               "RelativeDocumentMoniker": "IMS.Entity\\Customer.cs",
@@ -278,12 +217,11 @@
               "RelativeToolTip": "IMS.Entity\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:09:11.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T12:09:11.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "IMS.Repo\\ApplicationDbContext.cs",
@@ -291,12 +229,11 @@
               "RelativeToolTip": "IMS.Repo\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:00:50.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T11:00:50.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Program.cs",
               "RelativeDocumentMoniker": "IMS.Web\\Program.cs",
@@ -304,12 +241,11 @@
               "RelativeToolTip": "IMS.Web\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAIAywDEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:17:39.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T06:17:39.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "IMS.Web\\Views\\Shared\\_Layout.cshtml",
@@ -317,12 +253,11 @@
               "RelativeToolTip": "IMS.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABwAAAAAAAAAAAAYwCgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T19:23:24.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T19:23:24.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IMS.Web\\Controllers\\HomeController.cs",
@@ -330,8 +265,7 @@
               "RelativeToolTip": "IMS.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:37:24.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:37:24.018Z"
             }
           ]
         }
