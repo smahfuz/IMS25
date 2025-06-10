@@ -13,12 +13,7 @@ namespace IMS.Repo
         }
 
         public DbSet<Product> Products { get; set; }
-        public DbSet<Customer> Customers { get; set; }
         public DbSet<GeneralConfig> GeneralConfigs { get; set; }
-        public DbSet<Category> CategoryConfigs { get; set; }
-        public DbSet<Manufacturer> Manufacturers { get; set; }
-        public DbSet<ItemStock> ItemStocks { get; set; }
-        public DbSet<Warehouse> Warehouses { get; set;}
 
     }
 }

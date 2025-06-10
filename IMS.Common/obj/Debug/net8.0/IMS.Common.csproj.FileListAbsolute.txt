@@ -10,3 +10,15 @@ C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Common\obj\Debug\net8.0\IMS.Common.
 C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Common\obj\Debug\net8.0\refint\IMS.Common.dll
 C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Common\obj\Debug\net8.0\IMS.Common.pdb
 C:\Users\Dev-Mahfuz\source\repos\IMS.Web\IMS.Common\obj\Debug\net8.0\ref\IMS.Common.dll
+D:\DummyWeb\IMS25\IMS.Common\bin\Debug\net8.0\IMS.Common.deps.json
+D:\DummyWeb\IMS25\IMS.Common\bin\Debug\net8.0\IMS.Common.dll
+D:\DummyWeb\IMS25\IMS.Common\bin\Debug\net8.0\IMS.Common.pdb
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\IMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\IMS.Common.AssemblyInfoInputs.cache
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\IMS.Common.AssemblyInfo.cs
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\IMS.Common.csproj.CoreCompileInputs.cache
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\IMS.Common.sourcelink.json
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\IMS.Common.dll
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\refint\IMS.Common.dll
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\IMS.Common.pdb
+D:\DummyWeb\IMS25\IMS.Common\obj\Debug\net8.0\ref\IMS.Common.dll

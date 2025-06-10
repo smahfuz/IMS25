@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj": {}
+    "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj": {
+    "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj",
+        "projectUniqueName": "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj",
         "projectName": "IMS.Common",
-        "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj",
+        "projectPath": "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj",
         "packagesPath": "C:\\Users\\Dev-Mahfuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\obj\\",
+        "outputPath": "D:\\DummyWeb\\IMS25\\IMS.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

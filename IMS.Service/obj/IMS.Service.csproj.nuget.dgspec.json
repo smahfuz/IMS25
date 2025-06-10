@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Service\\IMS.Service.csproj": {}
+    "D:\\DummyWeb\\IMS25\\IMS.Service\\IMS.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj": {
+    "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj",
+        "projectUniqueName": "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj",
         "projectName": "IMS.Common",
-        "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj",
+        "projectPath": "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj",
         "packagesPath": "C:\\Users\\Dev-Mahfuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\obj\\",
+        "outputPath": "D:\\DummyWeb\\IMS25\\IMS.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\IMS.Entity.csproj": {
+    "D:\\DummyWeb\\IMS25\\IMS.Entity\\IMS.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\IMS.Entity.csproj",
+        "projectUniqueName": "D:\\DummyWeb\\IMS25\\IMS.Entity\\IMS.Entity.csproj",
         "projectName": "IMS.Entity",
-        "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\IMS.Entity.csproj",
+        "projectPath": "D:\\DummyWeb\\IMS25\\IMS.Entity\\IMS.Entity.csproj",
         "packagesPath": "C:\\Users\\Dev-Mahfuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\obj\\",
+        "outputPath": "D:\\DummyWeb\\IMS25\\IMS.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj": {
-                "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Common\\IMS.Common.csproj"
+              "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj": {
+                "projectPath": "D:\\DummyWeb\\IMS25\\IMS.Common\\IMS.Common.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\IMS.Repo.csproj": {
+    "D:\\DummyWeb\\IMS25\\IMS.Repo\\IMS.Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\IMS.Repo.csproj",
+        "projectUniqueName": "D:\\DummyWeb\\IMS25\\IMS.Repo\\IMS.Repo.csproj",
         "projectName": "IMS.Repo",
-        "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\IMS.Repo.csproj",
+        "projectPath": "D:\\DummyWeb\\IMS25\\IMS.Repo\\IMS.Repo.csproj",
         "packagesPath": "C:\\Users\\Dev-Mahfuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\obj\\",
+        "outputPath": "D:\\DummyWeb\\IMS25\\IMS.Repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,8 +166,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\IMS.Entity.csproj": {
-                "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Entity\\IMS.Entity.csproj"
+              "D:\\DummyWeb\\IMS25\\IMS.Entity\\IMS.Entity.csproj": {
+                "projectPath": "D:\\DummyWeb\\IMS25\\IMS.Entity\\IMS.Entity.csproj"
               }
             }
           }
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Service\\IMS.Service.csproj": {
+    "D:\\DummyWeb\\IMS25\\IMS.Service\\IMS.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Service\\IMS.Service.csproj",
+        "projectUniqueName": "D:\\DummyWeb\\IMS25\\IMS.Service\\IMS.Service.csproj",
         "projectName": "IMS.Service",
-        "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Service\\IMS.Service.csproj",
+        "projectPath": "D:\\DummyWeb\\IMS25\\IMS.Service\\IMS.Service.csproj",
         "packagesPath": "C:\\Users\\Dev-Mahfuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Service\\obj\\",
+        "outputPath": "D:\\DummyWeb\\IMS25\\IMS.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -245,8 +245,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\IMS.Repo.csproj": {
-                "projectPath": "C:\\Users\\Dev-Mahfuz\\source\\repos\\IMS.Web\\IMS.Repo\\IMS.Repo.csproj"
+              "D:\\DummyWeb\\IMS25\\IMS.Repo\\IMS.Repo.csproj": {
+                "projectPath": "D:\\DummyWeb\\IMS25\\IMS.Repo\\IMS.Repo.csproj"
               }
             }
           }

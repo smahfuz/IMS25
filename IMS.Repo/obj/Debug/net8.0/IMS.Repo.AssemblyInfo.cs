@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMS.Repo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e28cc0d1f3e1333f2a552a8cb16d9edb05956f4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e79827fd1d20722fcd8ab2938492e5922498f40a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMS.Repo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMS.Repo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

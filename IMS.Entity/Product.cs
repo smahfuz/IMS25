@@ -34,9 +34,6 @@ namespace IMS.Entity
         [Display(Name = "Category")]
         public Guid? CategoryId { get; set; }
 
-        [ForeignKey("CategoryId")]
-        public virtual Category Category { get; set; }
-
         [Display(Name = "Price (BDT)")]
         public double? UnitPrice { get; set; }
 
@@ -58,8 +55,7 @@ namespace IMS.Entity
         [Display(Name = "Manufacturer")]
         public Guid? ManufacturerId { get; set; }
 
-        [ForeignKey("ManufacturerId")]
-        public virtual Manufacturer Manufacturer { get; set; }
+        
 
         [Display(Name = "Country Of Origin")]
         public Guid? CountryId { get; set; }
@@ -79,6 +75,5 @@ namespace IMS.Entity
         [Display(Name = "Ext")]
         public string Ext { get; set; }
 
-        public virtual ICollection<ItemStock> ItemStockCollection { get; set; }
     }
 }
